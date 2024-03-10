@@ -23,16 +23,6 @@ body {
     font-size: 18px;
 }
 
-
-.container label {
-    margin-bottom: 30px;
-    margin-left: 10px;
-}
-
-.container button {
-    margin-top: 30px;
-}
-
 .contenedor {
     display: flex;
     justify-content: space-around;
